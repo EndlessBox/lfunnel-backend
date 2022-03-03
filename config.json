@@ -1,0 +1,19 @@
+{
+    "clientId": "L7BnATx2KWLugQsa",
+    "secret": "SbxT8eAprbU3N8WPNfLkBWnVxXXPurk3hUNU5M6BG42gVwtX",
+    "state": "SbxT8eAprbU3N8WPN",
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "tiger",
+        "database": "lfdb",
+        "dialect": "mysql",
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "acquire": 60000,
+            "idle": 10000
+          }
+    },
+    "ngrokURL": ""
+}
