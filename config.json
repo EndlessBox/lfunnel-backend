@@ -15,5 +15,7 @@
             "idle": 10000
           }
     },
-    "ngrokURL": ""
+    "ngrokURL": "http://f88d-105-156-111-207.ngrok.io/",
+    "lightFunnelAccessURL":"https://api.lightfunnels.com/oauth/access",
+    "lightFunnelHooksURL": "https://api.lightfunnels.com/graphql"
 }
